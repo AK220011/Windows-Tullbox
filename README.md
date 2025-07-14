@@ -46,7 +46,6 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - Notepad ++🥵🥶
 - [Flameshot](https://flameshot.org)🥶 (editable screenshots)
 - HWiNFO64🥵🥶 (hardware information, realtime stats)
-- Blitz (LoL builds)
 - 4K Video Downloader🥵 (youtube extract)
 - [Twinkle Tray](https://twinkletray.com)🥶 (taskbar screen brightness / MSstore)
 - Everything search🥵🥶(search for any file on pc quickly)

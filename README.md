@@ -1,5 +1,5 @@
 # AK's ▄︻デ══━一💥Windows-Tullbox💥💥💥
-**Hand picked tools and services for a better windows experience**. 
+🌟**Hand picked tools and services for a better windows experience**🌟. 
 
 Recommended use: copy/paste into a .txt file using a notepad app and store on usb/pc for easy look up when needed.
 
@@ -11,7 +11,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - irm christitus.com/win | iex (app installer/updater)🥶🥶🥶
                             
 -----------------------------------------------
-**Browsers**:           
+📜**Browsers**:           
 - DuckDuckGo    
 - Brave🥵🥶
 - Chrome🥵🥶
@@ -19,7 +19,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - Firefox🥵🥶(use betterfox user.json)
 - Waterfox🥵🥶
 
-**Needs**:
+📜**Needs**:
 - **Patch My PC Home Updater** (app installer/updater)🥵🥵🥵 https://patchmypc.com/product/home-updater/
 - qBittorrent🥵🥶
 - OnlyOffice🥵🥶
@@ -30,7 +30,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - 7zip🥵🥶
 - OOShutUp10++🥵 (disable windows telemetry, per user or all)
 
-**Wants**:
+📜**Wants**:
 - ImageGlass🥵🥶 (alternative photos app)
 - Rufus🥵 (.iso usb installer)
 - Ditto🥵🥶 (clipboard history saver)
@@ -58,7 +58,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - Picocrypt(portable)/Cryptomator🥵/VeraCrypt🥵 (foss file encryption)
 - [Standard Notes](https://standardnotes.com) (foss note taking and syncing)
 -----------------------------------------------
-**Services**:
+📜**Services**:
 - **Video Editors**: VSDC(free, pro32€/y) / Davinci Resolve🥵 / Kdenlive🥵🥶(foss) / Filmora(80€/lifetime)  / PowerDirector(yarr?) / ShotCut🥵(foss) / Movavi Video Editor (100€/lifetime)
 - **Paint**: Krita 🥵🥶(foss) / Clip Studio Paint(50€/lifetime) / Sketchbook(MS store 25€/lifetime)
 - **Debrid**: Alldebrid(3€/m)
@@ -73,7 +73,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - https://kumu.io/Windscribe/vpn-relationships (companies connected to various vpn services)
 - https://github.com/TunnlTo/desktop-app
 -----------------------------------------------
-**pirateshit**:
+📜**pirateshit**:
 - AVOID REPACKMASTER(onyhash), CONTAINS aurotun info stealer in all uploads!
 1337x/TPB/rarbg not yet banned malware uploader "onyhash" (repackmaster fakes) AVOID!
 Not detected by any AV database yet.
@@ -124,7 +124,7 @@ Not detected by any AV database yet.
 **Privacy Tools**:
 - https://awesome-privacy.xyz
 -----------------------------------------------
-**Shit Hit the Fan Portables**:
+📜**Shit Hit the Fan Portables**:
 - 1.Norton Power Eraser
 - 2.Adlice Diagnostic Portable
 - 3.Emsisoft Emergency Kit🥵
@@ -136,7 +136,7 @@ Not detected by any AV database yet.
 - Autoruns🥵🥶
 - Adlice UCheck Portable
 -----------------------------------------------
-**Windows fixes**:
+📜**Windows fixes**:
 - SFC (System File Checker): This command scans and repairs corrupted system files. To run it, open CMD and type `sfc /scannow`
 
 - DISM (Deployment Image Servicing and Management): This tool can be used to repair and restore the Windows image. In CMD, type `DISM /Online /Cleanup-Image /RestoreHealth`
@@ -160,7 +160,7 @@ Not detected by any AV database yet.
 - shift+f10 (for cmd)
 - OOBE\BYPASSNRO
 -----------------------------------------------
-**Secure DNS**:
+📜**Secure DNS**:
 - https://controld.com/free-dns
 - //IPV4// 76.76.2.38     //IPV6// 2606:1a40::38   ///DoH:   https://freedns.controld.com/x-1hosts-lite (doh/3)
 - //IPV4// 76.76.10.38    //IPV6// 2606:1a40:1::38 ///Dot:   x-1hosts-lite.freedns.controld.com (dot/q)

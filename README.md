@@ -7,7 +7,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 terminal admin --> irm https://massgrave.dev/get | iex (activation windows/office)
                             --> irm christitus.com/win | iex (app installer/updater)🥶🥶🥶
 -----------------------------------------------
-Browsers:           
+- Browsers:           
 DuckDuckGo    
 Brave🥵🥶
 Chrome🥵🥶

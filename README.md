@@ -1,17 +1,17 @@
 # Windows-Tullbox
-Hand picked tools and services for a better windows experience. 
+**Hand picked tools and services for a better windows experience**. 
 
 Recommended use: copy/paste into a .txt file using a notepad app and store on usb/pc for easy look up when needed.
 
 Emojis for easy installation through the two app installers with three emojis. If both emojis, it means it is on both. 
 Sometimes christitus has issues where it asks for user credentials so Patch My PC is prefferable and is what I use.
 
-terminal admin:
+**terminal admin**:
 - irm https://massgrave.dev/get | iex (activation windows/office)
 - irm christitus.com/win | iex (app installer/updater)🥶🥶🥶
                             
 -----------------------------------------------
-Browsers:           
+**Browsers**:           
 - DuckDuckGo    
 - Brave🥵🥶
 - Chrome🥵🥶
@@ -19,18 +19,18 @@ Browsers:
 - Firefox🥵🥶(use betterfox user.json)
 - Waterfox🥵🥶
 
-Needs:
-- Patch My PC Home Updater (app installer/updater)🥵🥵🥵
+**Needs**:
+- **Patch My PC Home Updater** (app installer/updater)🥵🥵🥵
 - qBittorrent🥵🥶
 - OnlyOffice🥵🥶
 - Steam🥵🥶
-- Geek Uninstaller 🥵(uninstall apps with this!)
+- **Geek Uninstaller** 🥵(uninstall apps with this!)
 - WizTree🥵🥶(easy storage management)
 - VLC🥵🥶
 - 7zip🥵🥶
 - OOShutUp10++🥵 (disable windows telemetry, per user or all)
 
-Wants:
+**Wants**:
 - ImageGlass🥵🥶 (alternative photos app)
 - Rufus🥵 (.iso usb installer)
 - Ditto🥵🥶 (clipboard history saver)
@@ -59,27 +59,27 @@ Wants:
 - Picocrypt(portable)/Cryptomator🥵/VeraCrypt🥵 (foss file encryption)
 - Standard Notes (foss note taking and syncing)
 -----------------------------------------------
-Services:
-- Video Editors: VSDC(free, pro32€/y) / Davinci Resolve🥵 / Kdenlive🥵🥶(foss) / Filmora(80€/lifetime)  / PowerDirector(yarr?) / ShotCut (foss) / Movavi Video Editor (100€/lifetime)
-- Paint: Krita 🥵🥶(foss) / Clip Studio Paint(50€/lifetime) / Sketchbook(MS store 25€/lifetime)
-- Debrid: Alldebrid(3€/m)
-- VPN: IVPN (2$/week, 6$/month 140$/3y) Mullvad/AzireVPN(5€/m)
-- DNS: ControlD (use 1hosts-lite)
-- AV: Sophos Home Premium (better than Windows Defender because it has behaviour blocking and cheaper than bitdefender, kaspersky, eset, emsisoft)
-- Mail: Posteo(12€/y)+ eM Client🥵(IMAP)
-- Sync: SyncBackFree
-- Cloud: Filen(100GB/30€/stackable/lifetime)
-- Upload files: swisstransfer.com, wormhole.app, 
+**Services**:
+- **Video Editors**: VSDC(free, pro32€/y) / Davinci Resolve🥵 / Kdenlive🥵🥶(foss) / Filmora(80€/lifetime)  / PowerDirector(yarr?) / ShotCut (foss) / Movavi Video Editor (100€/lifetime)
+- **Paint**: Krita 🥵🥶(foss) / Clip Studio Paint(50€/lifetime) / Sketchbook(MS store 25€/lifetime)
+- **Debrid**: Alldebrid(3€/m)
+- **VPN**: IVPN (2$/week, 6$/month 140$/3y) Mullvad/AzireVPN(5€/m)
+- **DNS**: ControlD (use 1hosts-lite)
+- **AV**: Sophos Home Premium (better than Windows Defender because it has behaviour blocking and cheaper than bitdefender, kaspersky, eset, emsisoft)
+- **Mail**: Posteo(12€/y)+ eM Client🥵(IMAP)
+- **Sync**: SyncBackFree
+- **Cloud**: Filen(100GB/30€/stackable/lifetime)
+- **Upload files**: swisstransfer.com, wormhole.app, 
 -----------------------------------------------
 - https://kumu.io/Windscribe/vpn-relationships (companies connected to various vpn services)
 - https://github.com/TunnlTo/desktop-app
 -----------------------------------------------
-pirateshit:
+**pirateshit**:
 - AVOID REPACKMASTER(onyhash), CONTAINS aurotun info stealer in all uploads!
 1337x/TPB/rarbg not yet banned malware uploader "onyhash" (repackmaster fakes) AVOID!
 Not detected by any AV database yet.
 
-APPS:
+**APPS**:
 - https://pesktop.com/en/
 - https://lrepacks.net/
 - https://4download.net/
@@ -87,24 +87,24 @@ APPS:
 - https://programs.themicrotech.net/
 - https://appdoze.net/
 
-GAMES:
+**GAMES**:
 - https://fitgirl-repacks.site/
 - http://www.skidrowreloaded.com/
 
-ANIME:
+**ANIME**:
 - https://dkb.si/index
 - https://nyaa.si/
 - https://subsplease.org/
 
-TV:
+**TV**:
 - https://psa.wf/
 - https://eztvx.to/home
 
-audioshit:
+**audioshit**:
 - https://g-meh.com/library/windows
 - https://www.magesy.blog/
 
-TORRENTS:
+**TORRENTS**:
 - https://knaben.org/ (1337x/TPB/rutracker)
 - https://ext.to/
 - https://torrentquest.com/
@@ -113,40 +113,40 @@ TORRENTS:
 - https://bitsearch.to/
 - https://btdig.com/ (unsafe, only last resort)
 
-SUBTITLES:
+**SUBTITLES**:
 - https://www.opensubtitles.org/en/search/subs
 - https://subsource.net/info
 - https://github.com/fmhy/FMHY
 - https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting
 
-List of on demand streamers (anime,movies,shows):
+**List of on demand streamers** (anime,movies,shows):
 - http://tbcpl.lol/
 
-Privacy Tools:
+**Privacy Tools**:
 - https://awesome-privacy.xyz
 -----------------------------------------------
-Shit Hit the Fan Portables:
+**Shit Hit the Fan Portables**:
 - 1.Norton Power Eraser
 - 2.Adlice Diagnostic Portable
 - 3.Emsisoft Emergency Kit🥵
 - 4.Sophos ScanAndClean
 
-Malware/Diagnostics:
+**Malware/Diagnostics**:
 - Adlice Diagnostic Portable
 - RogueKillerPE64
 - Autoruns🥵🥶
 - Adlice UCheck Portable
 -----------------------------------------------
-Windows fixes:
+**Windows fixes**:
 - SFC (System File Checker): This command scans and repairs corrupted system files. To run it, open CMD and type `sfc /scannow`
 
 - DISM (Deployment Image Servicing and Management): This tool can be used to repair and restore the Windows image. In CMD, type `DISM /Online /Cleanup-Image /RestoreHealth`
 
 - CHKDSK (Check Disk): This command checks and fixes errors on a hard drive. In CMD, type `chkdsk C: /f` to check and fix the C drive
 
-Reset Windows: Settings->Windows Update->Advanced Options->Recovery->Reset this PC
+**Reset Windows**: Settings->Windows Update->Advanced Options->Recovery->Reset this PC
 
-Bypass TPM, CPU, RAM, and Secure Boot: 
+**Bypass TPM, CPU, RAM, and Secure Boot**: 
 - Shift + F10 to open the Command Prompt.
 - Type regedit and press Enter
 - HKEY_LOCAL_MACHINE\SYSTEM\Setup, 
@@ -157,16 +157,16 @@ Bypass TPM, CPU, RAM, and Secure Boot:
 - BypassRAMCheck value to 1
 - BypassCPUCheck value to 1
 
-Bypass network req on install: 
+**Bypass network req on install**: 
 - shift+f10 (for cmd)
 - OOBE\BYPASSNRO
 -----------------------------------------------
-Secure DNS:
+**Secure DNS**:
 - https://controld.com/free-dns
 - //IPV4// 76.76.2.38     //IPV6// 2606:1a40::38   ///DoH:   https://freedns.controld.com/x-1hosts-lite (doh/3)
 - //IPV4// 76.76.10.38    //IPV6// 2606:1a40:1::38 ///Dot:   x-1hosts-lite.freedns.controld.com (dot/q)
 
-Lists:
+**Lists**:
 - https://hblock.molinero.dev
 - https://firebog.net
 - https://o0.pages.dev

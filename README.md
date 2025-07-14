@@ -71,9 +71,8 @@ Services:
 - Cloud: Filen(100GB/30€/stackable/lifetime)
 - Upload files: swisstransfer.com, wormhole.app, 
 -----------------------------------------------
-https://kumu.io/Windscribe/vpn-relationships (companies connected to various vpn services)
-https://github.com/TunnlTo/desktop-app
-
+- https://kumu.io/Windscribe/vpn-relationships (companies connected to various vpn services)
+- https://github.com/TunnlTo/desktop-app
 -----------------------------------------------
 pirateshit:
 - AVOID REPACKMASTER(onyhash), CONTAINS aurotun info stealer in all uploads!

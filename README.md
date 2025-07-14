@@ -38,7 +38,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - Discord🥵🥶
 - Vesktop🥶 (discord foss, free modded nitro)
 - Bitwarden🥵 (free password manager)
-- Stremio🥶 (+Alldebrid, 3€/m watch any torrent on demand)
+- [Stremio](https://www.stremio.com/downloads)🥶 (+[Alldebrid](https://alldebrid.com), 3€/m watch any torrent on demand)
 - [File-Converter app](https://file-converter.io)🥶 (context menu any file converter)
 - [Files app](https://github.com/files-community/Files?tab=readme-ov-file)🥶/ [Opus directory](https://www.gpsoft.com.au)(50€/lifetime) (explorer alternatives)
 - [LocalSend](https://localsend.org)🥶 Android/macOS/iOS/Linux/Windows (local-filesharing)
@@ -61,7 +61,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 📜**Services**:
 - **Video Editors**: VSDC(free, pro32€/y) / Davinci Resolve🥵 / Kdenlive🥵🥶(foss) / Filmora(80€/lifetime)  / PowerDirector(yarr?) / ShotCut🥵(foss) / Movavi Video Editor (100€/lifetime)
 - **Paint**: Krita 🥵🥶(foss) / Clip Studio Paint(50€/lifetime) / Sketchbook(MS store 25€/lifetime)
-- **Debrid**: Alldebrid(3€/m)
+- **Debrid**: [Alldebrid](https://alldebrid.com)(3€/m)
 - **VPN**: [IVPN](https://www.ivpn.net/en/pricing/) (2$/week, 6$/month 140$/3y) Mullvad/AzireVPN(5€/m)
 - **DNS**: [ControlD](https://controld.com/free-dns) (use 1hosts-lite)
 - **AV**: [Sophos Home Premium](https://home.sophos.com/en-us) (better than Windows Defender because it has behaviour blocking and cheaper than bitdefender, kaspersky, eset, emsisoft)
@@ -201,3 +201,4 @@ Blocklists (dns blocking):
 - https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.apple.txt
 - https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.amazon.txt
 
+𝔾𝕆𝕆𝔻 𝔹𝕆𝕐

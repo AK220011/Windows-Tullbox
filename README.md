@@ -126,9 +126,9 @@ Not detected by any AV database yet.
 -----------------------------------------------
 📜**Shit Hit the Fan Portables**:
 - 1.Norton Power Eraser
-- 2.Adlice Protect Portable🥵
+- 2.Adlice Protect Portable🥵(formerly RogueKiller)
 - 3.Emsisoft Emergency Kit🥵
-- 4.Sophos ScanAndClean
+- 4.Sophos ScanAndClean(formerly HitmanPro)
 
 **Malware/Diagnostics**:
 - Adlice Protect Portable🥵

@@ -1,6 +1,8 @@
 # Windows-Tullbox
 Hand picked tools and services for a better windows experience. 
 
+Recommended use: copy/paste into a .txt file using a notepad app and store on usb/pc for easy look up when needed.
+
 Emojis for easy installation through the two app installers with three emojis. If both emojis, it means it is on both. 
 Sometimes christitus has issues where it asks for user credentials so Patch My PC is prefferable and is what I use.
 

@@ -8,23 +8,23 @@ terminal admin --> irm https://massgrave.dev/get | iex (activation windows/offic
                             --> irm christitus.com/win | iex (app installer/updater)🥶🥶🥶
 -----------------------------------------------
 - Browsers:           
-DuckDuckGo    
-Brave🥵🥶
-Chrome🥵🥶
-Vivaldi🥵🥶
-Firefox🥵🥶(use betterfox user.json)
-Waterfox🥵🥶
+- DuckDuckGo    
+- Brave🥵🥶
+- Chrome🥵🥶
+- Vivaldi🥵🥶
+- Firefox🥵🥶(use betterfox user.json)
+- Waterfox🥵🥶
 
-Needs:
-Patch My PC Home Updater (app installer/updater)🥵🥵🥵
-qBittorrent🥵🥶
-OnlyOffice🥵🥶
-Steam🥵🥶
-Geek Uninstaller 🥵(uninstall apps with this!)
-WizTree🥵🥶(easy storage management)
-VLC🥵🥶
-7zip🥵🥶
-OOShutUp10++🥵 (disable windows telemetry, per user or all)
+- Needs:
+- Patch My PC Home Updater (app installer/updater)🥵🥵🥵
+- qBittorrent🥵🥶
+- OnlyOffice🥵🥶
+- Steam🥵🥶
+- Geek Uninstaller 🥵(uninstall apps with this!)
+- WizTree🥵🥶(easy storage management)
+- VLC🥵🥶
+- 7zip🥵🥶
+- OOShutUp10++🥵 (disable windows telemetry, per user or all)
 
 Wants:
 ImageGlass🥵🥶

@@ -1,7 +1,7 @@
 # AK's ▄︻デ══━一💥Windows-Tullbox💥💥💥
 🌟**Hand picked tools and services for a better windows experience**🌟. 
 
-Recommended use: download the .txt file OR copy/paste into a .md file note app AND store on usb/pc for easy look up when needed.
+Recommended use: download the .txt file **OR** copy/paste into a .md file note app **AND** store on usb/pc for easy look up when needed **OR** bookmark this page.
 
 Emojis for easy installation through the two app installers with three emojis. If both emojis, it means it is on both. 
 Sometimes christitus has issues where it asks for user credentials so Patch My PC is prefferable and is what I use.

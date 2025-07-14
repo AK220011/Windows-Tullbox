@@ -201,4 +201,4 @@ Blocklists (dns blocking):
 - https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.apple.txt
 - https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/native.amazon.txt
 
-                                                                    𝔾𝕆𝕆𝔻 𝔹𝕆𝕐
+𝔾𝕆𝕆𝔻 𝔹𝕆𝕐

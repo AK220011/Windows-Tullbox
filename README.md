@@ -20,7 +20,7 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - Waterfox🥵🥶
 
 **Needs**:
-- **Patch My PC Home Updater** (app installer/updater)🥵🥵🥵
+- **Patch My PC Home Updater** (app installer/updater)🥵🥵🥵 https://patchmypc.com/product/home-updater/
 - qBittorrent🥵🥶
 - OnlyOffice🥵🥶
 - Steam🥵🥶
@@ -39,37 +39,37 @@ Sometimes christitus has issues where it asks for user credentials so Patch My P
 - Vesktop🥶 (discord foss, free modded nitro)
 - Bitwarden🥵 (free password manager)
 - Stremio🥶 (+Alldebrid, 3€/m watch any torrent on demand)
-- File-Converter app🥶 (context menu any file converter)
-- Files app🥶/ Opus directory(50€/lifetime) (explorer alternatives)
-- LocalSend🥶 Android/macOS/iOS/Linux/Windows (local-filesharing)
-- Netlimiter (internet traffic control)
+- [File-Converter app](https://file-converter.io)🥶 (context menu any file converter)
+- [Files app](https://github.com/files-community/Files?tab=readme-ov-file)🥶/ [Opus directory](https://www.gpsoft.com.au)(50€/lifetime) (explorer alternatives)
+- [LocalSend](https://localsend.org)🥶 Android/macOS/iOS/Linux/Windows (local-filesharing)
+- [Netlimiter](https://www.netlimiter.com) (internet traffic control)
 - Notepad ++🥵🥶
-- Flameshot🥶 (editable screenshots)
+- [Flameshot](https://flameshot.org)🥶 (editable screenshots)
 - HWiNFO64🥵🥶 (hardware information, realtime stats)
 - Blitz (LoL builds)
 - 4K Video Downloader🥵 (youtube extract)
-- Twinkle Tray🥶 (taskbar screen brightness / MSstore)
+- [Twinkle Tray](https://twinkletray.com)🥶 (taskbar screen brightness / MSstore)
 - Everything search🥵🥶(search for any file on pc quickly)
-- Equalizer APO🥶(EQ headphones/speakers)
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)🥶(EQ headphones/speakers)
 - OBS Studio🥵🥶(record/stream)
-- Windows mods: RetroBar(win7/xp taskbar) / TransluscentTB🥶/ SoundManager / EarTrumper🥶
+- Windows mods: [RetroBar](https://github.com/dremin/RetroBar/releases)(win7/xp taskbar) / [TransluscentTB](https://github.com/TranslucentTB/TranslucentTB/releases)🥶/ [SoundManager](https://github.com/ORelio/Sound-Manager/releases) / [EarTrumper](https://eartrumpet.app)🥶
 - 🥵EA/Epic/GOG/GeForce/Logitech/Ubisoft/Battle.net🥵
 - Windows Media Creation Tool 10/11🥵(make .iso and use with rufus)
 - Recuva🥵 (recover deleted files)
 - Picocrypt(portable)/Cryptomator🥵/VeraCrypt🥵 (foss file encryption)
-- Standard Notes (foss note taking and syncing)
+- [Standard Notes](https://standardnotes.com) (foss note taking and syncing)
 -----------------------------------------------
 **Services**:
-- **Video Editors**: VSDC(free, pro32€/y) / Davinci Resolve🥵 / Kdenlive🥵🥶(foss) / Filmora(80€/lifetime)  / PowerDirector(yarr?) / ShotCut (foss) / Movavi Video Editor (100€/lifetime)
+- **Video Editors**: VSDC(free, pro32€/y) / Davinci Resolve🥵 / Kdenlive🥵🥶(foss) / Filmora(80€/lifetime)  / PowerDirector(yarr?) / ShotCut🥵(foss) / Movavi Video Editor (100€/lifetime)
 - **Paint**: Krita 🥵🥶(foss) / Clip Studio Paint(50€/lifetime) / Sketchbook(MS store 25€/lifetime)
 - **Debrid**: Alldebrid(3€/m)
-- **VPN**: IVPN (2$/week, 6$/month 140$/3y) Mullvad/AzireVPN(5€/m)
-- **DNS**: ControlD (use 1hosts-lite)
-- **AV**: Sophos Home Premium (better than Windows Defender because it has behaviour blocking and cheaper than bitdefender, kaspersky, eset, emsisoft)
-- **Mail**: Posteo(12€/y)+ eM Client🥵(IMAP)
-- **Sync**: SyncBackFree
-- **Cloud**: Filen(100GB/30€/stackable/lifetime)
-- **Upload files**: swisstransfer.com, wormhole.app, 
+- **VPN**: [IVPN](https://www.ivpn.net/en/pricing/) (2$/week, 6$/month 140$/3y) Mullvad/AzireVPN(5€/m)
+- **DNS**: [ControlD](https://controld.com/free-dns) (use 1hosts-lite)
+- **AV**: [Sophos Home Premium](https://home.sophos.com/en-us) (better than Windows Defender because it has behaviour blocking and cheaper than bitdefender, kaspersky, eset, emsisoft)
+- **Mail**: [Posteo](https://posteo.de/en)(12€/y)+ eM Client🥵(IMAP)
+- **Sync**: SyncBackFree🥵
+- **Cloud**: [Filen](https://app.filen.io)(100GB/30€/stackable/lifetime)
+- **Upload files**: swisstransfer.com, https://www.wormhole.app, 
 -----------------------------------------------
 - https://kumu.io/Windscribe/vpn-relationships (companies connected to various vpn services)
 - https://github.com/TunnlTo/desktop-app

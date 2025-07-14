@@ -164,8 +164,8 @@ Bypass network req on install:
 -----------------------------------------------
 Secure DNS:
 - https://controld.com/free-dns
-- 76.76.2.38   -  2606:1a40::38   -   https://freedns.controld.com/x-1hosts-lite (doh/3)
-- 76.76.10.38  -  2606:1a40:1::38 -   x-1hosts-lite.freedns.controld.com (dot/q)
+- IPV4: 76.76.2.38   -  IPV6: 2606:1a40::38   DoH:   https://freedns.controld.com/x-1hosts-lite (doh/3)
+- IPV4: 76.76.10.38  -  IPV6: 2606:1a40:1::38 Dot:   x-1hosts-lite.freedns.controld.com (dot/q)
 
 Lists:
 - https://hblock.molinero.dev

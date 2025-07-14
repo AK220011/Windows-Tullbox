@@ -4,8 +4,9 @@ Hand picked tools and services for a better windows experience.
 Emojis for easy installation through the two app installers with three emojis. If both emojis, it means it is on both. 
 Sometimes christitus has issues where it asks for user credentials so Patch My PC is prefferable and is what I use.
 
-terminal admin --> irm https://massgrave.dev/get | iex (activation windows/office)
-                            --> irm christitus.com/win | iex (app installer/updater)🥶🥶🥶
+terminal admin:
+- irm https://massgrave.dev/get | iex (activation windows/office)
+- irm christitus.com/win | iex (app installer/updater)🥶🥶🥶
                             
 -----------------------------------------------
 Browsers:           
@@ -28,7 +29,7 @@ Needs:
 - OOShutUp10++🥵 (disable windows telemetry, per user or all)
 
 Wants:
-- ImageGlass🥵🥶
+- ImageGlass🥵🥶 (alternative photos app)
 - Rufus🥵 (.iso usb installer)
 - Ditto🥵🥶 (clipboard history saver)
 - PDFgear🥶/PDF-XChange Editor🥵
@@ -42,7 +43,7 @@ Wants:
 - Netlimiter (internet traffic control)
 - Notepad ++🥵🥶
 - Flameshot🥶 (editable screenshots)
-- HWiNFO64🥵🥶
+- HWiNFO64🥵🥶 (hardware information, realtime stats)
 - Blitz (LoL builds)
 - 4K Video Downloader🥵 (youtube extract)
 - Twinkle Tray🥶 (taskbar screen brightness / MSstore)
@@ -54,6 +55,7 @@ Wants:
 - Windows Media Creation Tool 10/11🥵(make .iso and use with rufus)
 - Recuva🥵 (recover deleted files)
 - Picocrypt(portable)/Cryptomator🥵/VeraCrypt🥵 (foss file encryption)
+- Standard Notes (foss note taking and syncing)
 -----------------------------------------------
 Services:
 - Video Editors: VSDC(free, pro32€/y) / Davinci Resolve🥵 / Kdenlive🥵🥶(foss) / Filmora(80€/lifetime)  / PowerDirector(yarr?) / ShotCut (foss) / Movavi Video Editor (100€/lifetime)

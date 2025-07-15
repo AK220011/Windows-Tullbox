@@ -1,5 +1,5 @@
 # AK's ▄︻デ══━一💥Windows-Tullbox💥💥💥
-🌟**Hand picked tools and services for a better windows experience**🌟. 
+🌟**Hand picked tools and services for a better windows experience**🌟.  
 
 Recommended use: download the .txt file **OR** copy/paste into a .md file note app **AND** store on usb/pc for easy look up when needed **OR** bookmark this page.
 
@@ -128,20 +128,19 @@ Not detected by any AV database yet.
 - 1.Norton Power Eraser
 - 2.Adlice Protect Portable🥵(formerly RogueKiller)
 - 3.Emsisoft Emergency Kit🥵
-- 4.Sophos ScanAndClean(formerly HitmanPro)
+- 4.Sophos ScanAndClean (formerly HitmanPro)
 
-**Malware/Diagnostics**:
-- Adlice Protect Portable🥵
+**Diagnostics**:
 - RogueKillerPE64
 - Autoruns🥵🥶
 - Adlice UCheck Portable
 -----------------------------------------------
 📜**Windows fixes**:
-- SFC (System File Checker): This command scans and repairs corrupted system files. To run it, open CMD and type `sfc /scannow`
+- **SFC (System File Checker)**: This command scans and repairs corrupted system files. To run it, open CMD and type `sfc /scannow`
 
-- DISM (Deployment Image Servicing and Management): This tool can be used to repair and restore the Windows image. In CMD, type `DISM /Online /Cleanup-Image /RestoreHealth`
+- **DISM (Deployment Image Servicing and Management)**: This tool can be used to repair and restore the Windows image. In CMD, type `DISM /Online /Cleanup-Image /RestoreHealth`
 
-- CHKDSK (Check Disk): This command checks and fixes errors on a hard drive. In CMD, type `chkdsk C: /f` to check and fix the C drive
+- **CHKDSK (Check Disk)**: This command checks and fixes errors on a hard drive. In CMD, type `chkdsk C: /f` to check and fix the C drive
 
 **Reset Windows**: Settings->Windows Update->Advanced Options->Recovery->Reset this PC
 
@@ -162,8 +161,8 @@ Not detected by any AV database yet.
 -----------------------------------------------
 📜**Secure DNS**:
 - https://controld.com/free-dns
-- //IPV4// 76.76.2.38     //IPV6// 2606:1a40::38   ///DoH:   https://freedns.controld.com/x-1hosts-lite (doh/3)
-- //IPV4// 76.76.10.38    //IPV6// 2606:1a40:1::38 ///Dot:   x-1hosts-lite.freedns.controld.com (dot/q)
+- /IPV4/ 76.76.2.38     /IPV6/ 2606:1a40::38   /DoH\:   https://freedns.controld.com/x-1hosts-lite (doh/3)
+- /IPV4/ 76.76.10.38    /IPV6/ 2606:1a40:1::38 /Dot\:   x-1hosts-lite.freedns.controld.com (dot/q)
 
 **Lists**:
 - https://hblock.molinero.dev
